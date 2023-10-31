@@ -1,0 +1,6 @@
+.idea
+.gitignore
+./idea
+./gitignore
+./node_modules
+node_modules
